@@ -1,0 +1,41 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": {
+            "Z74TT3V354ID.com.tripadvisor.LocalPicks": {
+                "paths": [
+                    "/Hotel_Review-*",
+                    "/Restaurant_Review-*",
+                    "/Attraction_Review-*",
+                    "/Hotels-*",
+                    "/Restaurants-*",
+                    "/Attractions-*",
+                    "/",
+                    "/Tourism-*",
+                    "/LocationPhotoDirectLink-*",
+                    "/VacationRentals-*",
+                    "/VacationRentalReview-*",
+                    "/ShowUserReviews-*"
+                ]
+            },
+            "24X86T8MC6.com.tripadvisor.searchapitest": {
+                "paths": [
+					"*",
+                    "/Hotel_Review-*",
+					"/test/*",
+                    "/Restaurant_Review-*",
+                    "/Attraction_Review-*",
+                    "/Hotels-*",
+                    "/Restaurants-*",
+                    "/Attractions-*",
+                    "/",
+                    "/Tourism-*",
+                    "/LocationPhotoDirectLink-*",
+                    "/VacationRentals-*",
+                    "/VacationRentalReview-*",
+                    "/ShowUserReviews-*"
+                ]
+            }
+        }
+    }
+}
