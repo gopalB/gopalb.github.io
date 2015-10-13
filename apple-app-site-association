@@ -35,6 +35,24 @@
                     "/VacationRentalReview-*",
                     "/ShowUserReviews-*"
                 ]
+            },
+            "24X86T8MC6.com.tripadvisor.devbuild": {
+                "paths": [
+					"*",
+                    "/Hotel_Review-*",
+					"/test/*",
+                    "/Restaurant_Review-*",
+                    "/Attraction_Review-*",
+                    "/Hotels-*",
+                    "/Restaurants-*",
+                    "/Attractions-*",
+                    "/",
+                    "/Tourism-*",
+                    "/LocationPhotoDirectLink-*",
+                    "/VacationRentals-*",
+                    "/VacationRentalReview-*",
+                    "/ShowUserReviews-*"
+                ]
             }
         }
     }
