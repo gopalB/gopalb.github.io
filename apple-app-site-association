@@ -1,8 +1,9 @@
 {
     "applinks": {
         "apps": [],
-        "details": {
-            "Z74TT3V354ID.com.tripadvisor.LocalPicks": {
+        "details": [
+            {
+                "appID": "Z74TT3V354.com.tripadvisor.LocalPicks",
                 "paths": [
                     "/Hotel_Review-*",
                     "/Restaurant_Review-*",
@@ -18,11 +19,10 @@
                     "/ShowUserReviews-*"
                 ]
             },
-            "24X86T8MC6.com.tripadvisor.searchapitest": {
+            {
+                "appID": "24X86T8MC6.com.tripadvisor.searchapitest",
                 "paths": [
-					"*",
                     "/Hotel_Review-*",
-					"/test/*",
                     "/Restaurant_Review-*",
                     "/Attraction_Review-*",
                     "/Hotels-*",
@@ -36,11 +36,10 @@
                     "/ShowUserReviews-*"
                 ]
             },
-            "24X86T8MC6.com.tripadvisor.devbuild": {
+            {
+                "appID": "24X86T8MC6.com.tripadvisor.devbuild",
                 "paths": [
-					"*",
                     "/Hotel_Review-*",
-					"/test/*",
                     "/Restaurant_Review-*",
                     "/Attraction_Review-*",
                     "/Hotels-*",
@@ -54,6 +53,6 @@
                     "/ShowUserReviews-*"
                 ]
             }
-        }
+        ]
     }
 }
